@@ -273,3 +273,9 @@ http://stream.novotempo.com:1935/radio/smil:rntPortoAlegreRS.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dT8ZOeg.png" group-title="RADIOS", RADIO AtlÃ¢ntida FM
 http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://bit.ly/1WUZuTj" group-title="Drama", Wild Card - Jogo Duro - Dublado - Drama
+https://lh3.googleusercontent.com/tOHHOKk19yMSR1O8-kE7nIVHwMzR9pYxr5uXut4wwwbR9mu5ptZdoqiZbnEuHzTZx41HXcjamQ=m22
+
+#EXTINF:-1 tvg-logo="http://bit.ly/1QdzQXS" group-title="Drama", Life Story - Legendado 720p
+https://archive.org/download/BBC.Horizon.Life.Story.1987/BBC.Horizon.Life.Story.1987.mp4
+
